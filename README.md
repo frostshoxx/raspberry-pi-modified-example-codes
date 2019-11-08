@@ -1,4 +1,2 @@
-# Raspberry Pi - Sense Hat: Enhanced Cheerlights
-A modified Raspberry Pi Cheerlights example to handle the color text better.
-
-Be sure to obtain Twitter API keys and put it on auth.py in order to run the code.
+# Raspberry Pi - Modified Example Codes
+This is where I put my modified example codes from various sources
